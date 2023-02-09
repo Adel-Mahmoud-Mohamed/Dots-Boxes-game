@@ -1,1 +1,2 @@
 # Dots-Boxes-game
+### This is a console application game developed in C programming language, it's considered as the first programming project that i've done just after learning the concepts of programming using C programming language.

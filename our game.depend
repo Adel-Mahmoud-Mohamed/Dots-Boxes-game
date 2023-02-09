@@ -1,0 +1,123 @@
+# depslib dependency file v1.0
+1641414190 source:c:\users\blu-ray\desktop\our game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"check_complete.h"
+
+1641404589 c:\users\blu-ray\desktop\our game\check_complete.h
+
+1641426299 source:c:\users\blu-ray\desktop\my game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"game_function.h"
+
+1641404589 c:\users\blu-ray\desktop\my game\check_complete.h
+
+1641418747 c:\users\blu-ray\desktop\my game\printing_grid.h
+
+1641419593 c:\users\blu-ray\desktop\my game\validity.h
+
+1641419593 c:\users\blu-ray\desktop\my game\move.h
+
+1641424008 c:\users\blu-ray\desktop\my game\undo.h
+
+1641426299 c:\users\blu-ray\desktop\my game\game_function.h
+	"check_complete.h"
+	"printing_grid.h"
+	"validity.h"
+	"move.h"
+	"undo.h"
+	"grid_initializer.h"
+	"add_to_moves.h"
+	"structures.h"
+
+1641424119 c:\users\blu-ray\desktop\my game\grid_initializer.h
+
+1641425677 c:\users\blu-ray\desktop\my game\add_to_moves.h
+
+1641426337 c:\users\blu-ray\desktop\my game\structures.h
+
+1641777372 source:d:\our game\our game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"game_function.h"
+
+1641777713 d:\our game\our game\game_function.h
+	"check_complete.h"
+	"printing_grid.h"
+	"validity.h"
+	"move.h"
+	"undo.h"
+	"grid_initializer.h"
+	"add_to_moves.h"
+	"structures.h"
+
+1641404589 d:\our game\our game\check_complete.h
+
+1641776532 d:\our game\our game\printing_grid.h
+
+1641419593 d:\our game\our game\validity.h
+
+1641419593 d:\our game\our game\move.h
+
+1641424008 d:\our game\our game\undo.h
+
+1641424119 d:\our game\our game\grid_initializer.h
+
+1641425677 d:\our game\our game\add_to_moves.h
+
+1641426337 d:\our game\our game\structures.h
+
+1641749051 d:\our game\our game\debugz.txt
+
+1641777374 source:d:\educational stuff\dots & boxes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"game_function.h"
+
+1641777714 d:\educational stuff\dots & boxes\game_function.h
+	"check_complete.h"
+	"printing_grid.h"
+	"validity.h"
+	"move.h"
+	"undo.h"
+	"grid_initializer.h"
+	"add_to_moves.h"
+	"structures.h"
+
+1641404590 d:\educational stuff\dots & boxes\check_complete.h
+
+1641776534 d:\educational stuff\dots & boxes\printing_grid.h
+
+1641419594 d:\educational stuff\dots & boxes\validity.h
+
+1641419594 d:\educational stuff\dots & boxes\move.h
+
+1641424010 d:\educational stuff\dots & boxes\undo.h
+
+1641424120 d:\educational stuff\dots & boxes\grid_initializer.h
+
+1641425678 d:\educational stuff\dots & boxes\add_to_moves.h
+
+1641426338 d:\educational stuff\dots & boxes\structures.h
+
